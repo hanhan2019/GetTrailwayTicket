@@ -1,0 +1,12 @@
+{
+  "username":"hanhanjsw",
+  "password":"8628424han",
+  "from_station":"BJP",
+  "from_station_text":"北京",
+  "to_station":"HFH",
+  "to_station_text":"合肥",
+  "travel_date":"'2019-01-19'",
+  "passenger_list":["韩晗"],
+  "train_code":"T63",
+  "train_seat":["无座"]
+}
