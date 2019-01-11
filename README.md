@@ -21,6 +21,9 @@ pip3 install requests
 
 ### 运行指令
 精确模式自动刷票脚本
+
 python3 selenium_12306_ticket_exact_mode.py
+
 扫描模式自动刷票脚本
+
 python3 selenium_12306_ticket.py
