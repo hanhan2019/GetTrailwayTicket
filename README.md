@@ -12,8 +12,11 @@
 12306账号密码配置写在config里对应的文件里，目前使用的是手机客户端扫码登陆，账号密码可以不填，如果需要使用账号密码登陆，修改脚本中code_login值为False,然后运行。手动选择验证图片，再按说明执行即可。
 ### 运行要求
 首先安装selenium 和requests
+
 pip3 install -U selenium
+
 pip3 install requests
+
 在http://chromedriver.storage.googleapis.com/index.html上下载对应的browser driver,放到工程目录下
 
 ### 运行指令
